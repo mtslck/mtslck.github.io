@@ -2,7 +2,6 @@
 layout: post
 title:  "Configuration of humans.txt"
 date:   2017-11-10 15:07:29
-categories:
 ---
 Auctor, velit, ultrices scelerisque, cum, porta, rhoncus! Pulvinar, dignissim integer in etiam, quis elementum? Pulvinar massa in, etiam. Cras, mid? Lectus sit! A dignissim. Lacus proin! Nunc elementum, aliquam purus porttitor aliquam quis tortor. Nunc eros. Adipiscing pid eros et mid sed. Nisi aenean amet augue nisi habitasse! Magna scelerisque purus sagittis arcu ut penatibus duis? Lacus nec tincidunt nec! Ut tincidunt augue ac, mus in elementum, elit scelerisque nec, lectus massa, adipiscing aenean eu. Tempor? Proin tempor ut ultrices? Urna penatibus ridiculus augue nunc ridiculus, sed in a dis.
 

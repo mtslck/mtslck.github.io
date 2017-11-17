@@ -1,2 +1,7 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/clean-blog.scss";
+
+header.masthead .page-heading h1,
+header.masthead .site-heading h1 {
+  font-size: 3em;
+}
