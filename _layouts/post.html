@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <!-- Page Header -->
@@ -31,7 +32,8 @@ layout: default
     <div class="col-lg-8 col-md-10 mx-auto">
 
       {{ content }}
-
+      {% include disqus.html %}
+      
       <hr>
 
       <div class="clearfix">
